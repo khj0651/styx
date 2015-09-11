@@ -4,7 +4,7 @@ Styx는 Cloud Foundry V2의 웹 콘솔이다.
 
 # Requirements
 
-* Styx requires the Java7 JDK installed locally (in order to build the project with Maven)
+* Java7 JDK(이상)이 설치되어 있어야 한다. (Maven으로 프로젝트를 build)
 
 # Installation
 
@@ -26,8 +26,8 @@ scim:
 
 # Screenshots
 
-![App Spaces](https://raw.github.com/ravanrijn/styx/master/appspaces.png)
-![App](https://raw.github.com/ravanrijn/styx/master/app.png)
+![App Spaces](https://raw.github.com/khj0651/styx/master/appspaces.png)
+![App](https://raw.github.com/khj0651/styx/master/app.png)
 
 # Copyright and license
 
