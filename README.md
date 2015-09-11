@@ -1,6 +1,6 @@
 # STYX
 
-Styx is a web console for Cloud Foundry V2.
+Styx는 Cloud Foundry V2의 웹 콘솔이다.
 
 # Requirements
 
