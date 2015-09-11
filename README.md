@@ -1,6 +1,6 @@
 # STYX
 
-Styx´Â Cloud Foundry V2ÀÇ À¥ ÄÜ¼ÖÀÌ´Ù.
+StyxëŠ” Cloud Foundry V2ì˜ ì›¹ ì½˜ì†”ì´ë‹¤.
 
 # Requirements
 
